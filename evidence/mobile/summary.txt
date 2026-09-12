@@ -1,0 +1,4 @@
+﻿Mobile automation evidence
+Executed: 2026-09-11 20:21:07
+Result: BUILD SUCCESS (1 test passed)
+Report: mobile.html

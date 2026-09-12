@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ligo.web.SauceDemoWebTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.004 s -- in com.ligo.web.SauceDemoWebTest
